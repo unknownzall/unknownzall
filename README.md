@@ -9,8 +9,7 @@
   
   <p align="center">
     <i>
-      "Crafting immersive game experiences while strategically optimizing workflows.<br>
-      Professional laziness through intelligent automation."
+      "I'm just your regular programming geek."
     </i>
   </p>
   
