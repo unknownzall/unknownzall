@@ -9,7 +9,7 @@
   
   <p align="center">
     <i>
-      "I'm just your regular programming geek."
+      "I'm just a regular programming geek."
     </i>
   </p>
   
